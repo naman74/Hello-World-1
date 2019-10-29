@@ -1,4 +1,4 @@
-class HelloWorld
+class HelloWorldHacktoberfest
 {
   public static void main(String[] args)
   {
